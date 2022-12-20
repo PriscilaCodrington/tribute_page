@@ -1,4 +1,32 @@
-body .info {
-    width:960px;
+* {
+    margin: 0;
+    background-color: #ff2800;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#main {
+    margin: 30px 50px;
+}
+
+#title {
+    margin: 30px 0 30px 0;
+    font-size: 25px;
+    text-align: center;
+}
+
+#img-div {
+    padding: 2%;
+    text-align: center;
+    background-color: #FFF;
+}
+
+#image {
+    max-width: 75%;
+    height: auto;
     margin: 0 auto;
+}
+
+#img-caption {
+    padding-top: 15px;
+    background-color: #FFF;
 }
